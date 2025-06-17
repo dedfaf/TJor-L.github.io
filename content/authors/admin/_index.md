@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘廷均
+title: Dijkstra
 
 # Name pronunciation (optional)
 name_pronunciation: Ting-jyun Lyo 
@@ -175,9 +175,9 @@ awards:
 
 ---
 
-## I study at Washington University, building intelligent systems at the intersection of AI and medicine
+## I study at WashU, researching in NLP, Computer Vision,and AI for healthcare
 
-I am an undergraduate researcher in Computer Science at Washington University in St. Louis (GPA: 4.0), focusing on the development of AI systems for clinical and biomedical applications.
+I am an undergraduate researcher in Computer Science at Washington University in St. Louis (GPA: 4.0), focusing on the development of AI systems for clinical and biomedical applications
 
 My work spans:
 

@@ -7,7 +7,7 @@
     <description>Home</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Home</title>
       <link>http://localhost:1313/</link>
     </image>
@@ -46,15 +46,6 @@
 &lt;ul&gt;
 &lt;li&gt;Better Touch Tool for window management and custom keyboard shortcuts&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My first blog post</title>
-      <link>http://localhost:1313/post/my-first-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/my-first-blog/</guid>
-      <description>&lt;p&gt;Hello, world! This is my first blog post. I am excited to share my thoughts and experiences with you all. Stay tuned for more updates!&lt;/p&gt;
 </description>
     </item>
     
